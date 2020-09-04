@@ -26,10 +26,10 @@ initime=time.time()
 plt.ion()
 
 
-ckey="r4pNfkjKIlElFcDxSthB6ynVU"
-csecret="l9Ie9BtLetRAmClurrWRXAEAz4DxgzfudkXdBRujblSX9kyHAD"
-atoken="1286301253916450818-bBlg9otPcdEw8d9kVfrr1LY4Sne4lb"
-asecret="PNROg1tX1OZSOX2PPvhnzdrwgSbyYZtoHgJ0TX3NJEd8M"
+ckey="********"
+csecret="*********"
+atoken="******"
+asecret="********"
 
 class listener(StreamListener):
     
